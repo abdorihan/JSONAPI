@@ -1,0 +1,10 @@
+{
+  "products": {
+    "name": "string",
+    "quantity": "int",
+    "type": "string",
+    "buyPrice": "int",
+    "price": "int",
+    "published": "boolean"
+  }
+}
